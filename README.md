@@ -1,8 +1,8 @@
 # Wiki Farm
 
 ## Description
+The app allows the user to:
 
-#### The app allows the user to:
 1. Click anywhere on the map,
 2. Get the x,y coordinated.
 3. Perform a Query on the coordinate selected.
@@ -30,9 +30,10 @@ best crop the farmer can plant.
 ### prerequisites
 - Python 3.6 should be installed
 - django 1.11
+- Node package manager
 - install other packages provided in the requirements.txt file
-- Running the application.
-- Visit this link to view on any browser.
+- Running the application
+- Visit this link to view on any browser
 
 ### Installation.
 - Ensure python3.6 is installed.
