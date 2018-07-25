@@ -14,8 +14,6 @@
 5. Allow the farmer to check the current climatic conditions near him/her , check aganaist the crop database to predict the likely
 best crop the farmer can plant.
 
- + Created on, July 10th 2018
-
 ## Technologies used
 + Django
 + Geodjango
